@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189973647258",
+    "project_id": "sattwik-178f7",
+    "storage_bucket": "sattwik-178f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189973647258:android:13b4577a1c66f30bd3b423",
+        "android_client_info": {
+          "package_name": "com.eversoft.sattwik_nutritionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189973647258-oeoaifbil59ms5q1p60oiogod80381dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0kNOpMNp6LWc-EFBxUqMMae4ygalWEUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189973647258-oeoaifbil59ms5q1p60oiogod80381dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
